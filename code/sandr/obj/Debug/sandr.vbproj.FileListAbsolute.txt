@@ -1,0 +1,10 @@
+E:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\sandr 3.2\sandr\sandr\bin\Debug\sandr.dll
+E:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\sandr 3.2\sandr\sandr\bin\Debug\sandr.pdb
+E:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\sandr 3.2\sandr\sandr\bin\Debug\sandr.xml
+E:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\sandr 3.2\sandr\sandr\obj\Debug\sandr.vbproj.AssemblyReference.cache
+E:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\sandr 3.2\sandr\sandr\obj\Debug\sandr.Resources.resources
+E:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\sandr 3.2\sandr\sandr\obj\Debug\sandr.vbproj.GenerateResource.cache
+E:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\sandr 3.2\sandr\sandr\obj\Debug\sandr.vbproj.CoreCompileInputs.cache
+E:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\sandr 3.2\sandr\sandr\obj\Debug\sandr.dll
+E:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\sandr 3.2\sandr\sandr\obj\Debug\sandr.xml
+E:\Nextcloud\Development\VB14\06. LCD Smartie Plugins\sandr 3.2\sandr\sandr\obj\Debug\sandr.pdb
